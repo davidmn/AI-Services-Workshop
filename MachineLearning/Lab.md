@@ -97,6 +97,7 @@ Fraction of rows in the first output dataset: 0.8<br>
 Randomized split: checked<br>
 Random seed: 0<br>
 Stratified split: True<br>
+Stratification key column: All labels<br>
 
 ...and then select all labels using the column selector. 
 
